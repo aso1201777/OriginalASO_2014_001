@@ -17,7 +17,7 @@
         android:layout_height="286dp"
         android:layout_weight="0.98"
         android:scaleType="fitXY"
-        android:src="@drawable/nx_newlu_0101020139" />
+        android:src="@drawable/chukichi" />
 
     <TextView
         android:id="@+id/textView2"

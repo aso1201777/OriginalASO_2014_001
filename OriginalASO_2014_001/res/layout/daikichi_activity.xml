@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="0.01"
         android:scaleType="fitXY"
-        android:src="@drawable/b4e135b36193561d846ae2eb182dea40_400" />
+        android:src="@drawable/daikichi" />
 
     <TextView
         android:id="@+id/textView2"
